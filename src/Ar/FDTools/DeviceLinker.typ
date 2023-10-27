@@ -1,11 +1,11 @@
-(********************************************************************
- * COPYRIGHT --  
- ********************************************************************
- * Program: USBLinker
- * File: USBLinker.typ
- * Author: Josh
- * Created: September 11, 2013
- ********************************************************************
+(*
+ * File: DeviceLinker.typ
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of FDTools, licensed under the MIT License.
+ * 
+  ********************************************************************
  * Local data types of program USBLinker
  ********************************************************************)
 

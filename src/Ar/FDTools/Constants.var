@@ -1,3 +1,12 @@
+(*
+ * File: Constants.var
+ * Copyright (c) 2023 Loupe
+ * https://loupe.team
+ * 
+ * This file is part of FDTools, licensed under the MIT License.
+ * 
+  ********************************************************************)
+
 VAR CONSTANT
 	USB_MAI_NODES : USINT := 10;
 END_VAR
