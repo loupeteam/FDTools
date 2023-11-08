@@ -1,13 +1,11 @@
 (*
- * File: FileDeviceMgr.st
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of FDTools, licensed under the MIT License.
- * 
-  ********************************************************************
- * Implementation of program USBLinker
- ********************************************************************) 
+* File: FileDeviceMgr.st
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of FDTools, licensed under the MIT License.
+* 
+*) 
 
 (* Links/Unlinks file devices *)
 FUNCTION_BLOCK FileDeviceMgr

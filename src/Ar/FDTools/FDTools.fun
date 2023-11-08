@@ -1,11 +1,11 @@
 (*
- * File: FDTools.fun
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of FDTools, licensed under the MIT License.
- * 
-  ********************************************************************)
+* File: FDTools.fun
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of FDTools, licensed under the MIT License.
+*
+*)
 
 
 FUNCTION USBList : BOOL (*List all USB nodes*) (*$GROUP=User,$GROUPICON=usbms01.front.png*)

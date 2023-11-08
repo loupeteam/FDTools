@@ -1,13 +1,11 @@
 (*
- * File: DeviceLinker.typ
- * Copyright (c) 2023 Loupe
- * https://loupe.team
- * 
- * This file is part of FDTools, licensed under the MIT License.
- * 
-  ********************************************************************
- * Local data types of program USBLinker
- ********************************************************************)
+* File: DeviceLinker.typ
+* Copyright (c) 2023 Loupe
+* https://loupe.team
+* 
+* This file is part of FDTools, licensed under the MIT License.
+* 
+*)
 
 TYPE
 	USB_typ : 	STRUCT 
