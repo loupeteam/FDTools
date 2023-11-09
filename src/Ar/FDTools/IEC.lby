@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<?AutomationStudio Version=4.3.8.58 SP?>
+<Library Version="0.00.2" xmlns="http://br-automation.co.at/AS/Library">
+  <Files>
+    <File Description="Exported data types">Types.typ</File>
+    <File Description="Exported constants">Constants.var</File>
+    <File Description="Exported functions and function blocks">FDTools.fun</File>
+    <File Description="Links/Unlinks file devices">FileDeviceMgr.st</File>
+    <File>FileDeviceSelector.st</File>
+    <File Description="List all USB nodes">USBList.st</File>
+    <File Description="Local data types">DeviceLinker.typ</File>
+  </Files>
+  <Dependencies>
+    <Dependency ObjectName="FileIO" />
+    <Dependency ObjectName="AsUSB" />
+    <Dependency ObjectName="HMITools" />
+    <Dependency ObjectName="AsBrStr" />
+  </Dependencies>
+</Library>
